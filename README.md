@@ -1,1 +1,1 @@
-# sudoku-solver
+# C PROJECT TO SOLVE SODUKU
